@@ -1,0 +1,39 @@
+# Statistical Methods Certificate
+
+College: Arts and Science
+Level: Undergraduate
+Source: https://programs.usask.ca/arts-and-science/statistical-methods/index.php
+
+Arts and Science
+Statistical Methods
+Statistical Methods
+Certificate (Cert.)
+Admissions
+Academic policies
+The Certificate in Statistical Methods provides students with an opportunity to develop fundamental skills needed to apply advanced statistical methods to other disciplines. This program is not intended to fully prepare students for careers as statisticians or data scientists per se (e.g. the course requirements are not sufficient to meet the Statistical Society of Canada (SSC) Associate Statistician (A.Stat.) accreditation nor are they sufficient to cover all methods/skills needed in current Data Science careers). Rather the program is intended to give professionals (and future professionals) in many fields the skills to apply statistical methods to their activities, increasing their productivity.
+Major Average
+The major average in the Certificate in Statistical Methods includes the grades earned in:
+All courses eligible to be used in the program
+Residency Requirements
+To receive a Certificate in Statistical Methods, students must complete at least half of the following coursework (to the nearest highest multiple of 3 credit units) from the University of Saskatchewan.
+Minimum credit units required in the program
+See
+Residency
+for additional details.
+Requirements (15 credit units)
+STAT 344.3
+Choose
+3 credit units
+from the following:
+STAT 103.3
+STAT 241.3
+Choose
+3 credit units
+from the following:
+STAT 242.3
+STAT 245.3
+STAT 246.3
+Choose
+6 credit units
+from the following:
+STAT — 300-Level, 400-Level

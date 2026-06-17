@@ -1,0 +1,59 @@
+# Computing Certificate
+
+College: Arts and Science
+Level: Undergraduate
+Source: https://programs.usask.ca/arts-and-science/computing/index.php
+
+Arts and Science
+Computing
+Computing
+Certificate (Cert.)
+Admissions
+Academic policies
+The Certificate in Computing provides students with an opportunity to develop their computing literacy to equip them with the fundamentals of programming and software development, which can be applied to other areas of study or work. This program is not intended to prepare students for careers in software development, but to give professionals (and future professionals) in many fields the skills to apply computing to their activities, increasing their productivity.
+Acceptance to the Certificate in Computing is made on a competitive basis. The selection average will be calculated based on the grades in:
+CMPT 141.3 or CMPT 142.3
+CMPT 145.3 or CMPT 146.3
+MATH 163.3 or MATH 164.3 (if both have been taken the higher grade will be used)
+Applicants for the program will be ranked based on the selection average, and seats will be assigned to the student with the top average down to the last available seat. The number of seats will vary from year to year based on course availability. Registration in most senior CMPT courses will be restricted to students in the Department's programs. The deadline to apply to the Computing Certificate is May 1st. Students are expected to apply to the program following their first year of study, or the first year after they complete the required courses.
+Major Average
+The major average in the Certificate in Computing includes the grades earned in:
+All courses eligible to be used in the program.
+Residency Requirements in the Major
+To receive a Certificate in Computing, students must complete at least half of the following coursework (to the nearest highest multiple of 3 credit units) from the University of Saskatchewan.
+Minimum credit units required in the program.
+See
+Residency
+for additional details.
+Requirements (21 credit units)
+CMPT 214.3
+CMPT 270.3
+CMPT 280.3
+Choose
+3 credit units
+from the following:
+CMPT 141.3
+CMPT 142.3
+Choose
+3 credit units
+from the following:
+CMPT 145.3
+CMPT 146.3
+Choose
+3 credit units
+from the following:
+CMPT 318.3
+CMPT 353.3
+CMPT 370.3
+CMPT 381.3
+CMPT 384.3
+CMPT 394.3
+CMPT 439.3
+Choose
+3 credit units
+from the following:
+MATH 110.3
+MATH 133.4
+MATH 176.3
+STAT 242.3
+STAT 245.3

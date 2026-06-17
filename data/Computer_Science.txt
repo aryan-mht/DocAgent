@@ -1,0 +1,40 @@
+# Computer Science
+
+College: Arts and Science
+Level: Undergraduate
+Source: https://programs.usask.ca/arts-and-science/computer-science/index.php
+
+Arts and Science
+Computer Science
+Computer Science
+Admissions
+Academic policies
+Computer Science is the theoretical study and practical application of computation, including such topics as: design and maintenance of software systems, distributed systems, human-computer interaction, computational modeling, artificial intelligence, mobile computing, programming languages, image processing, and computer graphics.  The use of information technology in almost every corner of human activity continues to create opportunities for our graduates.
+The Department of Computer Science offers comprehensive programs designed to prepare graduates for careers across all sectors of the information technology industry, as well as for graduate studies and research. Several of these programs are accredited, namely: the Computer Science B.Sc. Four-year, the B.Sc. Honours, and the B.Sc. Honours Software Engineering Option. The B.Sc. Three-year degree provides less depth. The department also offers and supports the related Applied Computing programs.
+Acceptance to the Computer Science major or minor is made on a competitive basis. The selection average will be calculated based on the grades in:
+CMPT 141.3 or CMPT 142.3
+CMPT 145.3 or CMPT 146.3
+MATH 163.3 or MATH 164.3 (if both have been taken the higher grade will be used)
+Applicants for the program will be ranked based on the selection average, and seats will be assigned to the student with the top average down to the last available seat. The number of seats will vary from year to year based on course availability. Registration in most senior CMPT courses will be restricted to students in the Department's programs. The deadline to apply to a Computer Science major is May 1st. Students are expected to apply to either the B.Sc. Four-year or Three-year programs following their first year of study, or the first year after they complete the required courses.
+See the B.Sc. Honours program pages for additional admission requirements, and timing to apply for those levels. Students must normally be accepted to a B.Sc. Four-year or Three-year program before they can be considered for Honours.
+Major Average
+The major average in Computer Science programs includes the grades earned in:
+All
+courses listed in the Major Requirement C4 and all
+CMPT courses, except CMPT 100, CMPT 120, CMPT 140, CMPT 281, CMPT 298 and CMPT 299
+Residency Requirements in the Major
+To receive a degree in Computer Science, students must complete at least two-thirds of the following coursework (to the nearest highest multiple of 3 credit units) from the University of Saskatchewan.
+Minimum requirements in Major Requirement C4.
+See
+Residency
+for additional details.
+Programs
+Bachelor of Science Honours (B.Sc. Honours) - Computer Science
+Bachelor of Science Honours Software Engineering Option (B.Sc. Honours SE) - Computer Science
+Bachelor of Science Four-year (B.Sc. Four-year) - Computer Science
+Bachelor of Science Three-year (B.Sc. Three-year) - Computer Science
+Bachelor of Science Double Honours - Computer Science - Major 1
+Bachelor of Science Double Honours - Computer Science and Mathematics - Major 1 & 2
+Double Honours - Computer Science - Major 2
+Computer Science - Minor
+Professional Internship Option

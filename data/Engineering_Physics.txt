@@ -1,0 +1,241 @@
+# Engineering Physics
+
+College: Engineering
+Level: Undergraduate
+Source: https://programs.usask.ca/engineering/engineering-physics/index.php
+
+Engineering
+Engineering Physics
+Bachelor of Science in Engineering (B.E.) - Engineering Physics (149 credit units)
+Engineering Physics
+Bachelor of Science in Engineering (B.E.) - Engineering Physics (149 credit units)
+Admissions
+Academic policies
+Engineering Physics is a bridge between pure and applied science, utilizing fundamental concepts in today's rapidly changing and highly technical engineering environment. The program emphasizes the foundations of modern scientific principles, mathematical rigour, and engineering practice. The program is recommended for students interested in physics, specifically optics, mechanics, electronics, instrumentation, and modelling. Graduates may proceed to a postgraduate degree in Physics and Engineering Physics or in other branches of engineering. There are also double degree programs in Engineering Physics/Computer Science and Engineering Physics/Mathematics which have proven to be very effective for the high technology job market and for graduate work.
+All undergraduate students admitted to the College of Engineering are required to complete a common first-year of undeclared studies (known as the first-year common core). Once the first-year common core program has been completed, undergraduate students declare their preferences and compete for admission into an upper-year program. Students who are successful in securing admission into an upper-year program are required to follow the program of study that is prescribed at the time of their admission into the upper-year program.
+Recognizing that course and program changes may result in a modification to the original program of study, it is recommended that undergraduate students consult an Academic Advisor within the Engineering Student Centre on a regular basis to confirm their program of study, choose courses (including electives), and monitor their academic progress.
+Year 1 (42 credit units)
+All Engineering programs have a
+common
+first year.
+Year 2 (37 credit units)
+Fall Term
+EE 232.3
+EP 202.3
+EP 253.1
+EP 271.3 or ME 227.3
+MATH 223.3
+PHYS 252.3
+RCM 200.3
+Winter Term
+EE 221.3
+EP 214.3
+EP 228.3
+MATH 224.3
+PHYS 223.3
+STAT 241.3
+Year 3 (34 credit units)
+Fall Term
+EE 321.3
+EP 353.2
+PHYS 356.3
+PHYS 383.3
+MATH 331.3
+3 credit units of Engineering Physics Requirements
+Winter Term
+EP 317.3
+EP 320.3
+EP 325.3
+EP 354.2
+PHYS 323.3
+3 credit units of Engineering Physics Requirements
+Year 4 (36 credit units)
+Fall Term
+EP 413.3
+EP 417.3
+EP 421.3
+GE 348.3
+PHYS 456.3
+3 credit units of Engineering Physics Requirements
+Winter Term
+GE 449.3
+EP 428.3
+3 credit units of Complementary Studies courses
+3 credit units of Senior Humanities/Social Science courses. See the lists below under the Engineering Physics Requirements section.
+Fall Term and Winter Terms
+PHYS 490.0
+Choose 6 credit units from the following:
+EP 495.6
+GE 495.6 (Department permission required)
+Engineering Physics Requirements
+Engineering Science or Engineering Design List
+3 credit units from the following list:
+CE 217.3
+CME 341.3
+CME 342.3
+EE 241.3
+EE 322.3
+EE 341.3
+EE 342.3
+EE 343.3
+EE 442.3
+EE 471.3
+EE 472.3
+ENVE 201.3
+EP 440.3
+GE 213.3
+GEOE 377.3
+or any other approved elective
+Senior Science Requirement
+6 credit units from the Engineering Science or Engineering Design list, or CMPT, CHEM, GEOL courses at 200 level or higher, or PHYS, ASTR, MATH, STAT courses at 300 level or higher, or any other approved elective. At least 3 credit units must be at 400 level.
+Complementary Studies Elective (3 credit units)
+ANTH — 100-Level, 200-Level, 300-Level, 400-Level
+ARBC — 100-Level, 200-Level, 300-Level, 400-Level
+ARCH — 100-Level, 200-Level, 300-Level, 400-Level
+ARTH — 100-Level, 200-Level, 300-Level, 400-Level
+CHIN — 100-Level, 200-Level, 300-Level, 400-Level
+CLAS — 100-Level, 200-Level, 300-Level, 400-Level
+CMRS — 100-Level, 200-Level, 300-Level, 400-Level
+COMM 101.3
+COMM 105.3
+COMM 129.3
+COMM 201.3
+COMM 203.3
+COMM 204.3
+COMM 205.3
+COMM 210.3
+COMM 211.3
+COMM 247.3
+COMM 304.3
+COMM 306.3
+COMM 308.3
+COMM 321.3
+COMM 323.3
+COMM 329.3
+COMM 337.3
+COMM 340.3
+COMM 342.3
+COMM 343.3
+COMM 345.3
+COMM 346.3
+COMM 348.3
+COMM 349.3
+COMM 352.3
+COMM 354.3
+COMM 357.3
+CREE — 100-Level, 200-Level, 300-Level, 400-Level
+ECON 111.3
+ECON 114.3
+ECON 211.3
+ECON 214.3
+ECON 221.3
+ECON 223.3
+ECON 227.3
+ECON 231.3
+ECON 234.3
+ECON 254.3
+ECON 256.3
+ECON 270.3
+ECON 272.3
+ECON 275.3
+ECON 277.3
+ECON 280.3
+ENG — 100-Level, 200-Level, 300-Level, 400-Level
+FREN — 100-Level, 200-Level, 300-Level, 400-Level
+GE 431.3
+GE 450.3
+GENS — 200-Level, 300-Level, 400-Level
+GEOG 130.3
+GEOG 202.3
+GEOG 204.3
+GEOG 208.3
+GEOG 240.3
+GEOG 280.3
+GERM — 100-Level, 200-Level, 300-Level, 400-Level
+GRK — 100-Level, 200-Level, 300-Level, 400-Level
+HEB — 100-Level, 200-Level, 300-Level, 400-Level
+HIST — 100-Level, 200-Level, 300-Level, 400-Level
+HNDI — 100-Level, 200-Level, 300-Level, 400-Level
+INDG — 100-Level, 200-Level, 300-Level, 400-Level
+IS — 100-Level, 200-Level, 300-Level, 400-Level
+JPNS — 100-Level, 200-Level, 300-Level, 400-Level
+LATN — 100-Level, 200-Level, 300-Level, 400-Level
+LING — 100-Level, 200-Level, 300-Level, 400-Level
+LIT — 100-Level, 200-Level, 300-Level, 400-Level
+MUS 101.3
+PHIL 120.3
+PHIL 121.3
+PHIL 133.3
+PHIL 140.3
+PHIL 202.3
+PHIL 206.3
+PHIL 208.3
+PHIL 209.3
+PHIL 210.3
+PHIL 211.3
+PHIL 215.3
+PHIL 218.3
+PHIL 219.3
+PHIL 224.3
+PHIL 226.3
+PHIL 227.3
+PHIL 231.3
+PHIL 233.3
+PHIL 234.3
+PHIL 235.3
+PHIL 236.3
+PHIL 237.3
+PHIL 238.3
+PHIL 251.3
+PHIL 262.3
+PHIL 265.3
+PHIL 271.3
+PHIL 281.3
+PHIL 285.3
+PHIL 292.3
+PHIL 294.3
+PHIL 296.3
+POLS — 100-Level, 200-Level, 300-Level, 400-Level
+PSY — 100-Level, 200-Level, 300-Level, 400-Level
+RCM — 400-Level
+RLST — 100-Level, 200-Level, 300-Level, 400-Level
+RUSS — 100-Level, 200-Level, 300-Level, 400-Level
+SNSK — 100-Level, 200-Level, 300-Level, 400-Level
+SOC — 100-Level, 200-Level, 300-Level, 400-Level
+SPAN — 100-Level, 200-Level, 300-Level, 400-Level
+UKR — 100-Level, 200-Level, 300-Level, 400-Level
+Exception
+: COMM 121.3 is restricted to Edwards School of Business students.
+Note
+: Special Topics courses cannot be used to meet a Complementary Studies Elective Requirement (any
+course ending in 98 or 99).
+Senior Humanities or Social Science Elective (3 credit units)
+ANTH — 200-Level, 300-Level, 400-Level
+ARCH — 200-Level, 300-Level, 400-Level
+CLAS — 200-Level, 300-Level, 400-Level
+ECON — 200-Level, 300-Level, 400-Level
+ENG — 200-Level, 300-Level, 400-Level
+GENS — 200-Level, 300-Level, 400-Level
+GEOG 202.3
+GEOG 204.3
+GEOG 208.3
+GEOG 240.3
+GEOG 280.3
+HIST — 200-Level, 300-Level, 400-Level
+INDG — 200-Level, 300-Level, 400-Level
+IS — 200-Level, 300-Level, 400-Level
+PHIL — 200-Level, 300-Level, 400-Level
+POLS — 200-Level, 300-Level, 400-Level
+PSY — 200-Level, 300-Level, 400-Level
+RLST — 200-Level, 300-Level, 400-Level
+SOC — 200-Level, 300-Level, 400-Level
+Exception
+: ECON 204 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Exception
+: PSY 233 and PSY 236 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Exception
+: PHIL 241 cannot be used to meet the Senior Humanities or Social Science elective requirements of the program.
+Exception
+: SOC 225 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Note
+: The following Engineering courses will also satisfy the Humanities/Social Science elective requirement: RCM 400, RCM 401, RCM 402, RCM 403, RCM 404, RCM 405, RCM 406, RCM 407, RCM 408, RCM 409, RCM 410, and RCM 495.

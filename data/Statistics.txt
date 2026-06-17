@@ -1,0 +1,49 @@
+# Statistics
+
+College: Arts and Science
+Level: Undergraduate
+Source: https://programs.usask.ca/arts-and-science/statistics/index.php#Programs#Programs
+
+Arts and Science
+Statistics
+Statistics
+Admissions
+Academic policies
+Statistics includes the study of methods for data collection, analysis, and interpretation, and principles of experimental design.
+Statistics can be used to create a mathematical model of a real world system and discover whether the fluttering of a butterfly’s wing in the Amazon can cause a tornado in the East Indies. It allows people to predict patterns of societal behaviour, understand the stock markets, and build models of national economies. Students may research an abstract problem and develop a groundbreaking equation.
+Important Notes
+Restrictions on credit for introductory statistics courses.
+Students with credit for STAT 103 are eligible to subsequently take STAT 241.3. Students may NOT take STAT 103 for credit either concurrently with or following STAT 241 or STAT 242. Students may take STAT 103 for credit before, concurrently with, or after STAT 244 and/or one of STAT 245 or STAT 246. Students may NOT take STAT 103 for credit either concurrently with or following a 300-level course or higher in STAT.
+Students may take STAT 244 for credit before any one of STAT 242, STAT 245 or STAT 246. Students may NOT take STAT 244 for credit either concurrently with or following STAT 241 or STAT 242, STAT 245, STAT 246 or ECON 204. Students are not permitted to take both STAT 245 and STAT 246 for credit. Students are permitted to take STAT 242 after either one of STAT 245 or STAT 246 for credit. However, they are not permitted to take STAT 245 or STAT 246 for credit concurrently with or after STAT 242.
+Students with credit for an introductory statistics course offered by another department or college should consult the
+Statistics Course Regulations
+in the Arts and Science section of the
+Course and Program Catalogue
+and check with that academic unit for any other restrictions.
+STAT 103,
+STAT 241
+and
+STAT 341
+are courses in probability. All other courses carrying the STAT abbreviation are courses in statistics.
+Students who have not taken all of the required courses in their second year are encouraged to discuss alternate routes with the Head of the Department.
+Students intending to enter the third or fourth year of a program leading to the Honours degree are required to consult with the Head of the Department of Mathematics and Statistics or designate for approval of an acceptable program.
+In exceptional circumstances a student may be prepared to take a graduate mathematics or statistics course in the final year. Students wishing approval to take such a course and to count it towards the Honours requirements should consult with the department's Honours Committee.
+Students who complete an introductory course in statistical methodology that is considered by the Department to be essentially equivalent to STAT 242 may use such a course to satisfy the prerequisite requirements provided by STAT 242. However, such students will be required to add an additional approved 3 credit-unit course in statistics, mathematics or an area of application to their programs.
+Students who are planning to do graduate study in statistics should follow the Honours program and supplement it with additional courses in mathematics and areas of application. An excellent preparation for such graduate study is a Double Honours program in Statistics and Mathematics together with courses in an area of application.
+Major Average
+The major average in Statistics programs includes the grades earned in:
+All MATH and STAT courses approved for inclusion in the Major Requirement C4
+All courses listed in the Major Requirement C4.
+Residency Requirements in the Major
+To receive a degree in Statistics, students must complete at least two-thirds of the following coursework (to the nearest highest multiple of 3 credit units) from the University of Saskatchewan.
+Minimum requirements in Major Requirement C4.
+See
+Residency
+for additional details.
+Programs
+Bachelor of Science Honours (B.Sc. Honours) - Statistics
+Bachelor of Science Four-year (B.Sc. Four-year) - Statistics
+Bachelor of Science Double Honours - Statistics - Major 1
+Double Honours - Statistics - Major 2
+Bachelor of Science Double Honours - Statistics and Mathematics - Majors 1 and 2
+Statistics - Minor

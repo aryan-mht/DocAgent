@@ -1,0 +1,41 @@
+# Applied Computing
+
+College: Arts and Science
+Level: Undergraduate
+Source: https://programs.usask.ca/arts-and-science/applied-computing/index.php
+
+Arts and Science
+Applied Computing
+Applied Computing
+Admissions
+Academic policies
+The goal of this program is to train students in core areas of Computer Science enhanced by curated specializations in Computer Science and relevant cognate areas. Computers are ubiquitous in life, society and the economy, and their application to new domains and tasks is continually growing. To help drive the application to new domains and maintain systems in those domains, knowledge of both computer science and the domain is required. This program is divided into a number of concentrations which provide curated course packages in computer science and other disciplines which complement each other and when synthesized coherent expertise.
+Students who complete the program will be in demand in several industry sectors. The combined training in computer science and the diverse disciplines in the various concentrations will train students to work in sectors as diverse as mining and video games, agriculture and banking.
+Please see the descriptions of each concentration for more details.
+Acceptance to the Applied Computing major is made on a competitive basis. The selection average will be calculated based on the grades in:
+CMPT 141.3 or CMPT 142.3
+CMPT 145.3 or CMPT 146.3
+MATH 163.3 or MATH 164.3 (if both have been taken the higher grade will be used)
+Applicants for the program will be ranked based on the selection average, and seats will be assigned to the student with the top average down to the last available seat. The number of seats will vary from year to year based on course availability. Registration in most senior CMPT courses will be restricted to students in the Department's programs. The deadline to apply to an Applied Computing major is May 1st. Students are expected to apply to the B.Sc. Four-year program following their first year of study, or the first year after they complete the required courses.
+See the B.Sc. Honours program pages for additional admission requirements, and timing to apply for those levels. Students must normally be accepted to a B.Sc. Four-year program before they can be considered for Honours.
+Major Average
+The major average in the Applied Computing Science programs includes grades earned in:
+All courses listed in the Major Requirement C4
+Residency Requirement in the Major
+To receive a degree in Applied Computing, students must complete at least two-thirds of the following coursework (to the nearest highest multiple of 3 credit units) from the University of Saskatchewan:
+Minimum requirements in Major Requirement C4.
+See
+Residency
+for additional details.
+Programs
+Bachelor of Science Honours (B.Sc. Honours) - Applied Computing - Bioinformatics
+Bachelor of Science (B.Sc. Four-year) - Applied Computing - Bioinformatics
+Bachelor of Science Honours (B.Sc. Honours) - Applied Computing - Business
+Bachelor of Science (B.Sc. Four-year) - Applied Computing - Business
+Bachelor of Science Honours (B.Sc. Honours) - Applied Computing - Data Analytics
+Bachelor of Science (B.Sc. Four-year) - Applied Computing - Data Analytics
+Bachelor of Science Honours (B.Sc. Honours) - Applied Computing - Geomatics
+Bachelor of Science (B.Sc. Four-year) - Applied Computing - Geomatics
+Bachelor of Science Honours (B.Sc. Honours) - Applied Computing - Interactive System Design
+Bachelor of Science (B.Sc. Four-year) - Applied Computing - Interactive System Design
+Professional Internship Option

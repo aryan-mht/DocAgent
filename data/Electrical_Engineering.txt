@@ -1,0 +1,274 @@
+# Electrical Engineering
+
+College: Engineering
+Level: Undergraduate
+Source: https://programs.usask.ca/engineering/electrical-engineering/index.php
+
+Engineering
+Electrical Engineering
+Bachelor of Science in Engineering (B.E.) - Electrical Engineering (142 credit units)
+Electrical Engineering
+Bachelor of Science in Engineering (B.E.) - Electrical Engineering (142 credit units)
+Admissions
+Academic policies
+The Electrical Engineering program provides a foundation for work in the fields of analog and digital electronics, microelectronics, signal processing, communications, power generation, transmission and distribution, electrical machines, computing systems, controls, computer vision, robotics, and general electrical engineering applications. Topics specific to Electrical Engineering are studied in specialized focus areas in the third and fourth years.
+All undergraduate students admitted to the College of Engineering are required to complete a common first-year of undeclared studies (known as the first-year common core). Once the first-year common core program has been completed, undergraduate students declare their preferences and compete for admission into an upper-year program. Students who are successful in securing admission into an upper-year program are required to follow the program of study that is prescribed at the time of their admission into the upper-year program.
+Recognizing that course and program changes may result in a modification to the original program of study, it is recommended that undergraduate students consult an Academic Advisor within the Engineering Student Centre on a regular basis to confirm their program of study, choose courses (including electives), and monitor their academic progress.
+Year 1 (42 credit units)
+All Engineering programs have a
+common
+first year.
+Year 2 (34 credit units)
+Fall Term
+CMPT 214.3
+EE 205.1
+EE 232.3
+EE 265.3
+EP 202.3
+MATH 223.3
+Winter Term
+EE 216.3
+EE 221.3
+EE 241.3
+EE 271.3
+EP 214.3
+MATH 224.3
+Year 3 (33 credit units)
+Focus Areas – Students must complete two focus areas from Power and Energy; Digital Signal Processing and Applications; Sensors, Circuits and Devices or Autonomous Mobile Robotics.
+Fall Term
+6 credit units First Focus Area
+6 credit units Second Focus Area (or 3 credit units if Second Focus Area is Autonomous Mobile Robotics)
+CME 331.3
+GE 348.3
+Winter Term
+3 credit units First Focus Area
+3 credit units Science Elective List 1 or List 2
+3 credit units Second Focus Area (or 6 credit units if Second Focus Area is Autonomous Mobile Robotics)
+EE 382.3
+RCM 200.3
+Year 4 (33 credit units)
+Focus Areas – Students must complete two focus areas from Power and Energy; Digital Signal Processing and Applications; Sensors, Circuits and Devices or Autonomous Mobile Robotics.
+Fall Term
+3 credit units Senior Humanities/Social Elective
+6 credit units First Focus Area
+6 credit units Second Focus Area
+Winter Term
+3 credit units Complementary Studies Elective
+3 credit units First Focus Area
+3 credit units Second Focus Area
+GE 449.3
+Fall and Winter Terms
+EE 495.6
+Focus Areas
+Power and Energy
+Year 3 - Fall Term
+EE 341.3
+EE 343.3
+Year 3 - Winter Term
+EE 342.3
+Year 4 - Fall Term
+EE 441.3
+EE 442.3
+Year 4 - Winter Term
+EE 448.3
+Digital Signal Processing and Applications
+Year 3 - Fall Term
+CME 341.3
+EE 362.3
+Year 3 - Winter Term
+EE 365.3
+Year 4 - Fall Term
+EE 456.3
+EE 461.3
+Year 4 - Winter Term
+EE 465.3
+Sensors, Circuits and Devices
+Year 3 - Fall Term
+EE 301.3
+EE 321.2
+Year 3 - Winter Term
+EE 322.3
+Year 4 - Fall Term
+EE 471.3
+EE 473.3
+Year 4 - Winter Term
+EE 472.3
+Autonomous Mobile Robotics
+Year 3- Fall Term
+EE 367.3
+Year 3- Winter Term
+EE 368.3
+EE 466.3
+Year 4- Fall Term
+EE 467.3
+EE 469.3
+Year 4- Winter Term
+EE 464.3
+Electives
+Science Elective
+List 1
+BIOL 120.3
+GEOL 121.3
+List 2
+ASTR 213.3
+ASTR 214.3
+CHEM 221.3
+CHEM 231.3
+CHEM 242.3
+CHEM 250.3
+EVSC 203.3
+EVSC 210.3
+GEOG 120.3
+GEOL 224.3
+GEOL 245.3
+GEOL 300.3
+Complementary Studies Elective
+ANTH — 100-Level, 200-Level, 300-Level, 400-Level
+ARBC — 100-Level, 200-Level, 300-Level, 400-Level
+ARCH — 100-Level, 200-Level, 300-Level, 400-Level
+ARTH — 100-Level, 200-Level, 300-Level, 400-Level
+CHIN — 100-Level, 200-Level, 300-Level, 400-Level
+CLAS — 100-Level, 200-Level, 300-Level, 400-Level
+CMRS — 100-Level, 200-Level, 300-Level, 400-Level
+COMM 101.3
+COMM 105.3
+COMM 129.3
+COMM 201.3
+COMM 203.3
+COMM 204.3
+COMM 205.3
+COMM 210.3
+COMM 211.3
+COMM 247.3
+COMM 304.3
+COMM 306.3
+COMM 308.3
+COMM 321.3
+COMM 323.3
+COMM 329.3
+COMM 337.3
+COMM 340.3
+COMM 342.3
+COMM 343.3
+COMM 345.3
+COMM 346.3
+COMM 348.3
+COMM 349.3
+COMM 352.3
+COMM 354.3
+COMM 357.3
+CREE — 100-Level, 200-Level, 300-Level, 400-Level
+ECON 111.3
+ECON 114.3
+ECON 211.3
+ECON 214.3
+ECON 221.3
+ECON 223.3
+ECON 227.3
+ECON 231.3
+ECON 234.3
+ECON 254.3
+ECON 256.3
+ECON 270.3
+ECON 272.3
+ECON 275.3
+ECON 277.3
+ECON 280.3
+ENG — 100-Level, 200-Level, 300-Level, 400-Level
+FREN — 100-Level, 200-Level, 300-Level, 400-Level
+GE 431.3
+GE 450.3
+GENS — 200-Level, 300-Level, 400-Level
+GEOG 130.3
+GEOG 202.3
+GEOG 204.3
+GEOG 208.3
+GEOG 240.3
+GEOG 280.3
+GERM — 100-Level, 200-Level, 300-Level, 400-Level
+GRK — 100-Level, 200-Level, 300-Level, 400-Level
+HEB — 100-Level, 200-Level, 300-Level, 400-Level
+HIST — 100-Level, 200-Level, 300-Level, 400-Level
+HNDI — 100-Level, 200-Level, 300-Level, 400-Level
+INDG — 100-Level, 200-Level, 300-Level, 400-Level
+IS — 100-Level, 200-Level, 300-Level, 400-Level
+JPNS — 100-Level, 200-Level, 300-Level, 400-Level
+LATN — 100-Level, 200-Level, 300-Level, 400-Level
+LING — 100-Level, 200-Level, 300-Level, 400-Level
+LIT — 100-Level, 200-Level, 300-Level, 400-Level
+MUS 101.3
+PHIL 120.3
+PHIL 121.3
+PHIL 133.3
+PHIL 140.3
+PHIL 202.3
+PHIL 206.3
+PHIL 208.3
+PHIL 209.3
+PHIL 210.3
+PHIL 211.3
+PHIL 215.3
+PHIL 218.3
+PHIL 219.3
+PHIL 224.3
+PHIL 226.3
+PHIL 227.3
+PHIL 231.3
+PHIL 233.3
+PHIL 234.3
+PHIL 235.3
+PHIL 236.3
+PHIL 237.3
+PHIL 238.3
+PHIL 251.3
+PHIL 262.3
+PHIL 265.3
+PHIL 271.3
+PHIL 281.3
+PHIL 285.3
+PHIL 292.3
+PHIL 294.3
+PHIL 296.3
+POLS — 100-Level, 200-Level, 300-Level, 400-Level
+PSY — 100-Level, 200-Level, 300-Level, 400-Level
+RCM — 400-Level
+RLST — 100-Level, 200-Level, 300-Level, 400-Level
+RUSS — 100-Level, 200-Level, 300-Level, 400-Level
+SNSK — 100-Level, 200-Level, 300-Level, 400-Level
+SOC — 100-Level, 200-Level, 300-Level, 400-Level
+SPAN — 100-Level, 200-Level, 300-Level, 400-Level
+UKR — 100-Level, 200-Level, 300-Level, 400-Level
+Exception
+: COMM 121.3 is restricted to Edwards School of Business students.
+Note
+: Special Topics courses cannot be used to meet a Complementary Studies Elective Requirement (any course ending in 98 or 99).
+Senior Humanities or Social Science Elective
+ANTH — 200-Level, 300-Level, 400-Level
+ARCH — 200-Level, 300-Level, 400-Level
+CLAS — 200-Level, 300-Level, 400-Level
+ECON — 200-Level, 300-Level, 400-Level
+ENG — 200-Level, 300-Level, 400-Level
+GENS — 200-Level, 300-Level, 400-Level
+GEOG 202.3
+GEOG 204.3
+GEOG 208.3
+GEOG 240.3
+GEOG 280.3
+HIST — 200-Level, 300-Level, 400-Level
+INDG — 200-Level, 300-Level, 400-Level
+IS — 200-Level, 300-Level, 400-Level
+PHIL — 200-Level, 300-Level, 400-Level
+POLS — 200-Level, 300-Level, 400-Level
+PSY — 200-Level, 300-Level, 400-Level
+RLST — 200-Level, 300-Level, 400-Level
+SOC — 200-Level, 300-Level, 400-Level
+Exception
+: ECON 204 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Exception
+: PSY 233 and PSY 236 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Exception
+: PHIL 241 cannot be used to meet the Senior Humanities or Social Science elective requirements of the program.
+Exception
+: SOC 225 cannot be used to meet the Complementary Studies, Senior Humanities or Social Science elective requirements of the program.
+Note
+: The following Engineering courses will also satisfy the Humanities/Social Science elective requirement: RCM 400, RCM 401, RCM 402, RCM 403, RCM 404, RCM 405, RCM 406, RCM 407, RCM 408, RCM 409, RCM 410, and RCM 495.
