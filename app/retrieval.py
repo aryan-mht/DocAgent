@@ -42,12 +42,18 @@ def answer_from_docs(query, k=4):
     answer = resp.choices[0].message.content # extract the answer from the response
     return answer, metas # return the answer and the metadata
 
-
 if __name__ == "__main__":
-    q = "What is the capital of France?"
-    answer, sources = answer_from_docs(q)
-    print("Q:", q)
-    print("\nANSWER:\n", answer)
-    print("\nSOURCES:")
-    for m in sources:
-        print(f"  - {m['title']} ({m['college']}, {m['level']})")
+    print("USask Program Assistant (RAG). Type a question, or 'quit' to exit.\n")
+    while True:
+        query = input("You: ").strip()
+        if query.lower() in ("quit", "exit", "q"):
+            print("Goodbye.")
+            break
+        if not query:
+            continue
+        answer, sources = answer_from_docs(query)
+        print("\nAssistant:", answer)
+        print("\nSources:")
+        for m in sources:
+            print(f"  - {m['title']} ({m['college']}, {m['level']})")
+        print("\n" + "-" * 60 + "\n")
