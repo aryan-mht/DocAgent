@@ -18,7 +18,8 @@ def web_search(query, max_results=4):
 
 def answer_from_web(query):
     """Full web tool: search the web, then have the LLM summarize an answer."""
-    context = web_search(query)
+    scoped_query = f"University of Saskatchewan USask {query}"
+    context = web_search(scoped_query)
     if not context.strip():
         return "I couldn't find relevant information on the web for that."
 
